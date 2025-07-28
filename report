@@ -7,6 +7,7 @@ Harshitha Veerla(A04299420)
 Vishwas Garipalli(A04325767)
 
 Texas A&M University, Corpus Christi
+
 Abstract: The COSC 6339 project for Fall 2023 at A&M University focuses on building a system to predict the weather using a feed-forward neural network and the backpropagation algorithm. The project requires preprocessing of the dataset to convert attributes to positive numbers, remove irrelevant columns and data instances with missing values, and divide the set into training and testing subsets. The neural network design should have input layer neurons equal to the number of features, output layer neurons based on choice, and at least two hidden layers with chosen neuron numbers. The system loss function and stop criteria for training should also be defined. The performance of the classifier will be evaluated for accuracy based on the testing dataset.
 Keywords: "feed forward" "neural network" "accuracy" "back propagation" "training" 
 1.	Introduction
